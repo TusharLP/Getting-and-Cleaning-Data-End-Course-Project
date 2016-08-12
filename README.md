@@ -9,7 +9,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 First the zipped file is downloaded and unzipped into the folder 'UCI HAR Dataset'. 
 
-In R, the working directory is set to the folder containing the folder 'UCI HAR Dataset'. 
+In RStudio, the working directory is set to the folder containing the folder 'UCI HAR Dataset'. 
 
 The R script, run_analysis.R, does the following:
 
@@ -29,10 +29,10 @@ The R script, run_analysis.R, does the following:
 
 *  Saves this tidy dataset as tidydata.txt which is the end-result
 
-#To run the code in this repository:  
+##To run the code run_analysis contained in this repository from RStudio:  
 
 *  Download data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 *  Unzip it to 'UCI HAR Dataset'
-*  open a R console and set the working directory to the folder containg 'UCI HAR Dataset'
+*  open RStudio and set the working directory to the folder containg 'UCI HAR Dataset'
 *  Run the script run_analysis.R from here
 *  tidydata.txt will be created in the working directory

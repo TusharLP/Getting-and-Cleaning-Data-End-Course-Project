@@ -3,8 +3,13 @@ This code book describes the data fields in tidydata.txt in tidydata.txt
 
 ## Identifiers
 
-* `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken. The acivity labels haave been replaced by the corresponding acivity during the analysis
+* `subject` - The ID of the test subject. There are a total of 30 subjects. 
+* `activity` - The type of activity performed when the corresponding measurements were taken. 
+
+###The acivity labels haave been replaced by the corresponding acivity during the analysis. Following are the list of activities:
+* 
+
+
 
 ## Measurements
 

@@ -7,9 +7,12 @@ This code book describes the data fields in tidydata.txt in tidydata.txt
 * `activity` - The type of activity performed when the corresponding measurements were taken. 
 
 ###The acivity labels haave been replaced by the corresponding acivity during the analysis. Following are the list of activities:
-* 
-
-
+* WALKING: The subject is walking on flat surface
+* WALKING_UPSTAIRS: The subject is climbing up the stairs
+* WALKING_DOWNSTAIRS: The subject is climbing down the stairs
+* SITTING: The subject is sitting idly
+* STANDING: The subject is standing  on foot
+* LAYING: The subject is lying down
 
 ## Measurements
 

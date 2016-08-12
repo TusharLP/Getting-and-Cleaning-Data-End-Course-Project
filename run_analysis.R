@@ -63,7 +63,7 @@ meandata <- dcast(MeltedmergedData, Subject + Activity ~ variable, mean)
 
 
 
-#Writing meandata to tidy.txt
+#Writing meandata to tidydata.txt
 
 write.table(meandata, "./tidydata.txt", row.names = FALSE)
 
